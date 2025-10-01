@@ -108,7 +108,7 @@ Analytics should **continuously measure cross-sell uplift, segment cohorts, and 
 
 ---
 
-## 5. ✅ Takeaway for My Product Analytics Role
+## 5.  ✏️ Takeaway for My Product Analytics Role
 
 If I were on TNG’s product analytics team, my impact would be to:
 - Diagnose where adoption breaks down with funnel & cohort analysis.  
