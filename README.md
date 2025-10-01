@@ -118,4 +118,4 @@ If I were on TNG’s product analytics team, my impact would be to:
 
 ---
 
-📌 *This case study demonstrates my approach to product analytics: diagnosing adoption/retention challenges, designing data-driven improvements, and forecasting outcomes under different scenarios.*
+✅ *This case study demonstrates my approach to product analytics: diagnosing adoption/retention challenges, designing data-driven improvements, and forecasting outcomes under different scenarios.*
