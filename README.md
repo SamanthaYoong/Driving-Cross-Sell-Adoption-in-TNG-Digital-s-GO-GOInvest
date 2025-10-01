@@ -2,7 +2,7 @@
 
 ---
 
-## 1. 🌐 Context & Challenge
+## 1.  Context & Challenge
 
 TNG Digital has established itself as Malaysia’s leading eWallet with **23M verified users**.  
 Its next growth phase depends on **cross-selling financial products** such as:
@@ -21,7 +21,7 @@ Its next growth phase depends on **cross-selling financial products** such as:
 
 ---
 
-## 2. 🌐 Analytics Approach
+## 2.  Analytics Approach
 
 ###  ✅ Step 1: Diagnose Adoption & Retention
 1. **Adoption Funnel**
@@ -74,7 +74,7 @@ Its next growth phase depends on **cross-selling financial products** such as:
 
 ---
 
-## 3. 🌐 Forecast Scenarios
+## 3.  Forecast Scenarios
 
 ### 📈 Scenario 1: Cross-Selling Succeeds (Optimistic Growth)
 - GO+ expands to **7M users (~30% wallet base)**.  
@@ -96,7 +96,7 @@ Its next growth phase depends on **cross-selling financial products** such as:
 
 ---
 
-## 4. 🌐 Key Insight
+## 4.  Key Insight
 
 The success of TNG’s financial ecosystem depends on treating cross-sell not as separate products but as a **loyalty-driven loop**:
 
