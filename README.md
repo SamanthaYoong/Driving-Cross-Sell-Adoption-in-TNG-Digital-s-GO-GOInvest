@@ -80,8 +80,8 @@ Its next growth phase depends on **cross-selling financial products** such as:
 - GO+ expands to **7M users (~30% wallet base)**.  
 - GOpinjam loan book grows to **RM1–2b** with lower credit risk via loyalty-linked tiers.  
 - Insurance add-ons (GOProtect) bundled into cross-sell ecosystem.  
-- **2027 Revenue**: RM 650–700m  
-- **Net Profit Margin**: 20–25%  
+- **2027 Revenue**: TBC 
+- **Net Profit Margin**: TBC
 - **Result**: TNG Digital transforms into a **fintech profit engine**, IPO-ready.  
 
 ---
@@ -90,8 +90,8 @@ Its next growth phase depends on **cross-selling financial products** such as:
 - GO+ users remain stagnant (~4–5M) with small balances.  
 - GOpinjam faces high defaults, regulatory caps limit expansion.  
 - Low penetration of insurance/wealth products due to financial literacy gaps.  
-- **2027 Revenue**: RM 350–400m  
-- **Net Profit Margin**: <10% (some loss quarters).  
+- **2027 Revenue**: TBC  
+- **Net Profit Margin**: TBC.  
 - **Result**: TNG remains a **payments-first company**, vulnerable to banks/GrabPay/Boost.  
 
 ---
