@@ -1,4 +1,4 @@
-#  Case Study: Driving Cross-Sell Adoption in TNG Digital’s GO+ & GOpinjam
+#  Case Study: Driving Cross-Sell Adoption in TNG Digital’s GO+ & GOInvest
 
 ---
 
