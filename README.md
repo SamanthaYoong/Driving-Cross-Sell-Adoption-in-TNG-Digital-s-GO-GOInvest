@@ -1,121 +1,100 @@
-#  Case Study: Driving Cross-Sell Adoption in TNG Digital’s GO+ & GOInvest
+#  Case Study: Driving Cross-Sell Adoption from GO+ to GOInvest  
+
+## 1. Problem Statement  
+How can **TNG Digital** increase **GOInvest new users** by converting **active GO+ users**, while addressing the **trust gap** and **low-barrier entry perception** of eWallet-based investments?
+
+- **Current state:** GO+ has wide adoption as a “starter” investment (low entry, liquidity, safe yield).  
+- **Challenge:** Many GO+ users don’t progress to GOInvest, due to risk perception, lack of financial literacy, and trust in higher-risk products.  
+- **Key Goal:** Build trust, guide users across the funnel, and increase GOInvest penetration.  
 
 ---
 
-## 1.  📌 Context & Challenge
+## 2. Business Context  
 
-TNG Digital has established itself as Malaysia’s leading eWallet with **23M verified users**.  
-Its next growth phase depends on **cross-selling financial products** such as:
+- **GO+:** Micro-savings, highly liquid, low yield (~2% p.a.), positioned as “safe”. Acts as a user’s first exposure to financial services in TNG eWallet.  
+- **GOInvest:** Access to unit trusts and diversified funds (equities, mixed assets, syariah-compliant). Higher yields, but with market risk.  
 
-- **GO+** – a micro-investment/savings product (currently ~4M users).  
-- **GOpinjam** – a micro-loan product launched with banks (adoption still nascent).  
+**User Funnel (current):**  
+`Sign-up → eWallet Active → GO+ Adoption → (Drop-off) → GOInvest Adoption`  
 
-**Current Challenges**
-- GO+ users often keep balances low (treated like a reload buffer).  
-- GOpinjam struggles with both awareness and risk (default rates, regulatory constraints).  
-
-**Strategic Opportunity**
-- Increase stickiness & engagement.  
-- Diversify beyond payments revenue.  
-- Improve profitability ahead of expected breakeven.  
+**Drop-off point:** Trust gap when moving from low-risk GO+ to riskier GOInvest.  
 
 ---
 
-## 2.  📌 Analytics Approach
+## 3. Root Cause Analysis (Why users don’t convert)  
 
-###  ✅ Step 1: Diagnose Adoption & Retention
-1. **Adoption Funnel**
-   - Awareness → Interest → First-time Use → Repeat Use → Long-term Retention.  
-   - Hypothesis: Drop-off happens at *repeat use stage* for both GO+ and GOpinjam.  
-
-2. **Cohort Analysis**
-   - Track GO+ users who also use GOpinjam vs. single-product users.  
-   - Compare retention, ARPU, loan repayment patterns.  
-
-3. **Behavioral Segmentation**
-   - Segment by income level, spending patterns, top-up frequency.  
-   - Identify “prime cross-sell” users (e.g., frequent top-uppers but low GO+ balance → potential GOpinjam prospects).  
+- **Trust & Risk Aversion:** Users perceive GOInvest as “risky” compared to GO+.  
+- **Financial Literacy Gap:** Uncertainty about investment products, fear of losses.  
+- **Product Positioning:** GO+ is seen as a “wallet extension,” GOInvest as a “finance leap.”  
+- **Onboarding UX:** Current nudges from GO+ → GOInvest may be too transactional (ads, banners) instead of educational & personalized.  
 
 ---
 
-###  ✅ Step 2: Propose Data-Driven Improvements
+## 4. Strategy Framework: Driving Cross-Sell Adoption  
 
-**Cross-Sell Levers**
-1. **GO+ → GOpinjam**  
-   - Lower loan rates if user maintains a GO+ balance (like GrabPay Later loyalty tiers).  
-   - Trigger push notifications: *“Maintain RM200 in GO+, unlock lower borrowing rates.”*  
+### A. Trust-Building Levers  
+- **Performance Transparency**  
+  - Monthly “Your GO+ Interest vs. What You Could’ve Earned in GOInvest” statement.  
+  - Highlight GOInvest’s track record in simple terms.  
 
-2. **GOpinjam → GO+**  
-   - Auto-savings feature: after repaying loan installments, round-up balance into GO+.  
-   - *“Repay smart → Grow smart”* campaigns.  
+- **Segmentation-Based Messaging**  
+  - **Savers (small balances, low frequency):** Nudge with “safe fund” options.  
+  - **Builders (medium balances, regular reloads):** Highlight growth potential with diversified funds.  
+  - **High-balance holders:** Personal advisor chat + priority offers.  
 
-3. **Retention Mechanics**  
-   - Rewards tiers (e.g., bonus GOProtect coverage if GO+ balance + GOpinjam repayment history is consistent).  
-   - Merchant ecosystem integration: cashback if spending with GO+ balance.  
-
----
-
-### ✅ Step 3: Define Success Metrics
-
-**Adoption Metrics**
-- % of GO+ users cross-using GOpinjam.  
-- Loan application-to-approval conversion rate.  
-- Activation rate (first-to-second use).  
-
-**Retention Metrics**
-- 30-day / 90-day product retention.  
-- Average GO+ balance growth.  
-- Loan repayment punctuality & repeat borrowing.  
-
-**Monetization Metrics**
-- Incremental ARPU of cross-sell users vs. single-product users.  
-- Loan book growth (RM).  
-- Net profit contribution of finance products as % of total revenue.  
+- **Trust Anchors**  
+  - Promote “regulated by SC Malaysia” messaging.  
+  - Endorsement campaigns with credible financial educators / KOLs.  
 
 ---
 
-## 3.  📌 Forecast Scenarios
+### B. Cross-Sell Product Mechanics  
+- **Auto-Sweep Feature (GO+ → GOInvest)**  
+  - Rule: “When GO+ exceeds RM500, move surplus to GOInvest automatically.”  
+  - Seamless migration without heavy user decision-making.  
 
-### 📈 Scenario 1: Cross-Selling Succeeds (Optimistic Growth)
-- GO+ expands to **7M users (~30% wallet base)**.  
-- GOpinjam loan book grows to **RM1–2b** with lower credit risk via loyalty-linked tiers.  
-- Insurance add-ons (GOProtect) bundled into cross-sell ecosystem.  
-- **2027 Revenue**: TBC 
-- **Net Profit Margin**: TBC
-- **Result**: TNG Digital transforms into a **fintech profit engine**, IPO-ready.  
+- **Micro-Investment Trials**  
+  - “Invest RM10 in GOInvest, on us” for GO+ active users.  
+  - Lowers entry barrier by shifting risk perception.  
 
----
-
-### 📉 Scenario 2: Cross-Selling Falters (Flat Growth)
-- GO+ users remain stagnant (~4–5M) with small balances.  
-- GOpinjam faces high defaults, regulatory caps limit expansion.  
-- Low penetration of insurance/wealth products due to financial literacy gaps.  
-- **2027 Revenue**: TBC  
-- **Net Profit Margin**: TBC.  
-- **Result**: TNG remains a **payments-first company**, vulnerable to banks/GrabPay/Boost.  
+- **Goal-Based Bundling**  
+  - In-app roadmap: “Save in GO+ (short-term) → Invest in GOInvest (long-term).”  
 
 ---
 
-## 4.  📌 Key Insight
-
-The success of TNG’s financial ecosystem depends on treating cross-sell not as separate products but as a **loyalty-driven loop**:
-
-- **GO+** anchors savings habit.  
-- **GOpinjam** monetizes credit demand.  
-- Retention comes from bundling + ecosystem rewards.  
-
-Analytics should **continuously measure cross-sell uplift, segment cohorts, and optimize triggers** until the ecosystem forms a **self-reinforcing retention engine**.  
+### C. Behavioral Nudges  
+- **Personalized In-App Stories**  
+  - Example: “Your RM1000 in GO+ earned RM1.50. In GOInvest Balanced Fund, you could’ve earned RM3.20.”  
+- **Gamified Progression**  
+  - Badge system for “Starter Saver” → “Smart Investor.”  
+- **Push Notifications / Banners**  
+  - Example: “90% of GO+ users like you start GOInvest within 3 months.” (social proof)  
 
 ---
 
-## 5.  📌 Takeaway for My Product Analytics Role
+## 5. Metrics & Measurement  
 
-If I were on TNG’s product analytics team, my impact would be to:
-- Diagnose where adoption breaks down with funnel & cohort analysis.  
-- Design A/B tests for cross-sell triggers (e.g., loan rate discount for GO+ savers).  
-- Monitor long-term ARPU uplift from cross-sell cohorts.  
-- Present management with **forecast scenarios** to guide product roadmap & capital allocation.  
+**North Star Metric:**  
+- % of GO+ active users who open GOInvest accounts (conversion rate).  
+
+**Supporting Metrics:**  
+- Activation: % of GO+ users who trial GOInvest with >RM10.  
+- Retention: 3-month retention of GOInvest users.  
+- Trust: NPS / survey scores on “I trust TNG for investments.”  
+- AUM Growth: RM value migrated from GO+ → GOInvest.  
 
 ---
 
-✅ *This case study demonstrates my approach to product analytics: diagnosing adoption/retention challenges, designing data-driven improvements, and forecasting outcomes under different scenarios.*
+## 6. Expected Business Impact  
+
+- Higher **ARPU** (GOInvest users hold larger balances than GO+).  
+- Stronger **financial services penetration** beyond payments.  
+- Improved **brand trust** (TNG as a full-stack digital finance platform, not just payments).  
+- Diversification of **revenue streams** (management fees, fund commissions).  
+
+---
+
+## ✅ Summary Insight  
+To drive GO+ → GOInvest adoption, TNG Digital must **reframe the journey as “safe-to-growth” trust building** instead of “wallet vs. risky fund.”  
+
+By blending **trust anchors, auto-sweep mechanics, micro-trials, and personalized nudges**, GOInvest can grow as the natural “next step” for GO+ users.  
