@@ -1,4 +1,4 @@
-#  Case Study: Driving Cross-Sell Adoption from GO+ to GOInvest  
+#  Case Study: Driving Cross-Sell Adoption from GO+ to GOInvest ✅
 
 ## 1. Problem Statement  
 How can **TNG Digital** increase **GOInvest new users** by converting **active GO+ users**, while addressing the **trust gap** and **low-barrier entry perception** of eWallet-based investments?
